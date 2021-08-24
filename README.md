@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<big><b>Here is a portfolio of a super cool undergraduate, all projects here are majorly single-handedly done by me. Arrg... I could remember the part that got me exhausted when coding, oops before I forget here is a short info about me.
+<big><b>Here is a portfolio of a super cool undergraduate, most projects here are single-handedly done by me. Arrg... I could remember the part that got me exhausted when coding, oops before I forget here is a short info about me.
 </b></big><br/><br/>
 
 
