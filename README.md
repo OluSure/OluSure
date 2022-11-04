@@ -14,7 +14,6 @@ Happy Viewing!</b><br/><br/>
 
 # Analysis Program ⚖
 
-<img src="https://img.shields.io/badge/Notion-005571?style=for-the-badge&logo=notion&logoColor=black">
 <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
 <img src="https://img.shields.io/badge/Tableau-00CCBC?style=for-the-badge&logo=Tableau&logoColor=black">
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=black">
