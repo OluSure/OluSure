@@ -1,11 +1,11 @@
 ### Hi there 👋 
-<big><b>Here is a portfolio of a super cool undergraduate, most projects here are single-handedly done by me. Arrg... I could remember the part that got me exhausted when coding, oops before I forget below is some short info about me.
-</b></big><br/><br/>
+<big><b>Here is a portfolio of a recent graduate, most projects here are single-handedly done by me. Arrg... I could remember the part that got me exhausted when coding, oops before I forget below is some info about me.
+</b></big><br/><br
 
 
 # About Me 👨‍💻
 <b>I focused on data collection, data exploration, data cleaning, data visualization, and social research. <br/>
-I do develope and design responsive websites for school, church, club, company, etc.
+I develope and design responsive websites for schools, churches, clubs, companies, etc.
 <br/><br/>
 Love you ❤ and believe we can do a lot together💯 
 <br/><br/>
