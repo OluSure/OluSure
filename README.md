@@ -1,6 +1,6 @@
 ### Hi there 👋 
 <big><b>Here is a portfolio of a recent graduate, most projects here are single-handedly done by me. Arrg... I could remember the part that got me exhausted when coding, oops before I forget below is some info about me.
-</b></big><br/><br
+</b></big><br/>
 
 
 # About Me 👨‍💻
@@ -9,8 +9,7 @@ I develope and design responsive websites for schools, churches, clubs, companie
 <br/><br/>
 Love you ❤ and believe we can do a lot together💯 
 <br/><br/>
-Happy Viewing!</b><br/><br/>
-
+Happy Viewing!</b><br/>
 
 # Analysis Program ⚖
 
