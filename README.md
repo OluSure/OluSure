@@ -40,13 +40,13 @@ Happy Viewing!</b><br/>
 
 # Contact Me 📲 
 
-<a href="mailto:me.tobi.adeoye@gmail.com"> <i class="fab fa-gmail"></i></a>  <a href="https://github.com/olusure"><i class="fab fa-github"></i></a>
-<a href="https://twitter.com/thetobiadeoye"><i class="fab fa-twitter"></i></a>
-<a href="https://linkedin.com/in/thetobiadeoye"><i class="fab fa-linkedin-in"></i></a>
-<a href="https://fb.me/thetobiadeoye"><i class="fab fa-facebook-f"></i></a>
-<a href="https://t.me/thetobiadeoye"><i class="fab fa-telegram-plane"></i></a>
-<a href="https://instagram.com/thetobiadeoye"><i class="fab fa- Instagram-f"></i></a>
-<a href="https://whatsapp.com/channel/0029VanZNgj3LdQUvP8lsT0i"><i class="fab fa-whatsapp"></i></a>
-<a href="podcasters.spotify.com/pod/show/tobi-adeoye"><i class="fab fa-spotify"></i></a>
-<a href="https://YouTube.com/thetobiadeoye"><i class="fab fa-youtube"></i></a>
-<a href="https://tiktok.com/thetobiadeoye"><i class="fab fa-tiktok"></i></a>
+<a href="mailto:me.tobi.adeoye@gmail.com">Mail</a>  
+<a href="https://twitter.com/thetobiadeoye">Twitter (X)</a>
+<a href="https://linkedin.com/in/thetobiadeoye">LinkedIn</a>
+<a href="https://fb.me/thetobiadeoye">Facebook</a>
+<a href="https://t.me/thetobiadeoye">Telegram</i></a>
+<a href="https://instagram.com/thetobiadeoye">Instagram</a>
+<a href="https://whatsapp.com/channel/0029VanZNgj3LdQUvP8lsT0i">WhatsApp</a>
+<a href="podcasters.spotify.com/pod/show/tobi-adeoye">Spotify</a>
+<a href="https://Youtube.com/thetobiadeoye">YouTube</a>
+<a href="https://tiktok.com/thetobiadeoye">TikTok</a>
